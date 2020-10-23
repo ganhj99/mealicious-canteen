@@ -1,8 +1,6 @@
 # Mealicious Canteen Management System
 A shorten form of *Meal-Delicious*, is a canteen meal ordering system.
 
-The canteen currently has 10 staff in operation which include one manager, three chefs, three cashiers and three cleaners.
-
 ## Modules
 Mealicious is divided into 6 modules.
 * Login & Security Module
